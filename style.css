@@ -25,6 +25,22 @@ html {
   margin-right: 10vw;
 }
 
+.bbq-menu {
+  color: #4f000b;
+}
+
+.about-pg h1, article {
+  color: #4f000b;
+}
+
+.carousel-inner {
+  height: 500px;
+}
+
+.carousel-item img {
+  height: 500px;
+}
+
 footer {
   background-color: rgba(166, 0, 0, 0.8);
   color: aliceblue;
