@@ -26,11 +26,15 @@ html {
 }
 
 .bbq-menu {
-  color: #4f000b;
+  color: #fdf0d5;
 }
 
 .about-pg h1, article {
-  color: #4f000b;
+  color: #fdf0d5;
+}
+
+.about-pg em {
+  color: #e09f3e;
 }
 
 .carousel-inner {

@@ -33,8 +33,8 @@
 
 <ul>
   <li>
-    Closeup of Fried Chicken:
-    Photo by Pixabay: https://www.pexels.com/photo/close-up-photo-of-fried-chicken-60616/
+    Closeup of BBQ Chicken:
+    Photo by S. Laiba Ali: https://unsplash.com/photos/grilled-meat-on-black-grill-LCRkJtZsBWA
   </li>
 </ul>
 
