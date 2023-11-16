@@ -11,8 +11,8 @@ html {
 
 .hero-txt {
   text-align: center;
-  font-family:Tahoma, sans-serif;
-  color:aliceblue;
+  font-family: Tahoma, sans-serif;
+  color: aliceblue;
   padding-top: 10vh;
   padding-bottom: 10vh;
   background-color: rgba(0, 0, 0, 0.5);
@@ -29,7 +29,8 @@ html {
   color: #fdf0d5;
 }
 
-.about-pg h1, article {
+.about-pg h1,
+article {
   color: #fdf0d5;
 }
 
@@ -45,12 +46,21 @@ html {
   height: 500px;
 }
 
+body {
+  position: relative;
+  min-height: 100vh;
+}
+
+main {
+  padding-bottom: 2.5rem;
+}
+
 footer {
   background-color: rgba(166, 0, 0, 0.8);
   color: aliceblue;
   text-align: center;
   padding: 2rem;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   position: absolute;
   bottom: 0;
   width: 100%;
